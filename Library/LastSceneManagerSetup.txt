@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Watson/unity-sdk-2.15.0/Examples/ServiceExamples/ServiceExamples.unity
+  isLoaded: 1
+  isActive: 1

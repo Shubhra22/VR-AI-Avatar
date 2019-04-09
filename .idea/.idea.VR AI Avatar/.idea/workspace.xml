@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="448a9599-132d-40ba-89ed-34a49217926d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="681126992">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="39" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="39" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="3710" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="3710" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/WatsonTTS.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1335">
+              <caret line="94" selection-start-line="94" selection-end-line="94" />
+              <folding>
+                <marker date="1550707643560" expanded="false" signature="6:223" ph="..." />
+                <marker date="1550707643560" expanded="true" signature="263:2772" ph="{...}" />
+                <marker date="1550707643560" expanded="true" signature="427:550" ph="{...}" />
+                <marker date="1550707643560" expanded="true" signature="608:735" ph="{...}" />
+                <marker date="1550707643560" expanded="true" signature="615:729" ph="/* if (Input.GetKeyDown(KeyCode.A)) ... */" />
+                <marker date="1550707643560" expanded="true" signature="780:1403" ph="{...}" />
+                <marker date="1550707643560" expanded="true" signature="831:936" ph="{...}" />
+                <marker date="1550707643560" expanded="true" signature="1137:1182" ph="{...}" />
+                <marker date="1550707643560" expanded="true" signature="1444:1612" ph="{...}" />
+                <marker date="1550707643560" expanded="true" signature="1710:1750" ph="{...}" />
+                <marker date="1550707643560" expanded="true" signature="1841:1911" ph="{...}" />
+                <marker date="1550707643560" expanded="true" signature="1954:2454" ph="{...}" />
+                <marker date="1550707643560" expanded="true" signature="2011:2448" ph="{...}" />
+                <marker date="1550707643560" expanded="true" signature="2541:2770" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MessengerBehaviour.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+              <folding>
+                <marker date="1550703624624" expanded="false" signature="6:40" ph="..." />
+                <marker date="1550703624624" expanded="true" signature="103:1021" ph="{...}" />
+                <marker date="1550703624624" expanded="true" signature="527:702" ph="{...}" />
+                <marker date="1550703624624" expanded="true" signature="587:695" ph="{...}" />
+                <marker date="1550703624624" expanded="true" signature="740:868" ph="{...}" />
+                <marker date="1550703624624" expanded="true" signature="801:861" ph="{...}" />
+                <marker date="1550703624624" expanded="true" signature="899:941" ph="{...}" />
+                <marker date="1550703624624" expanded="true" signature="977:1019" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/WatsonSTT.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+              <folding>
+                <marker date="1551998238613" expanded="false" signature="6:273" ph="..." />
+                <marker date="1551998238613" expanded="true" signature="312:7633" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="681:734" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="792:804" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="828:1899" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="890:1893" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="947:1762" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="1814:1883" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="1939:2536" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="1990:2095" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="2160:2205" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="2571:2759" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="2619:2753" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="2793:2981" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="2834:2975" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="3025:5334" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="3230:3304" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="3476:5306" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="3547:3607" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="3624:3683" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="3849:4031" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="4142:4835" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="4852:5295" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="4883:5037" ph="/* calculate the number of samples remaining until we ready for a block of audio, ... */" />
+                <marker date="1551998238613" expanded="true" signature="5439:7049" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="5502:7043" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="5560:7033" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="5628:6083" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="5820:6020" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="6172:6550" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="6263:6532" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="6602:7019" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="6695:7001" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="6799:6979" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="7157:7508" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="7191:7502" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="7280:7492" ph="{...}" />
+                <marker date="1551998238613" expanded="true" signature="7552:7626" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../VR AI Avatar copy/Assets/Scripts/WatsonSTT.cs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4035">
+              <caret line="269" selection-start-line="269" selection-end-line="269" />
+              <folding>
+                <marker date="1552412730343" expanded="true" signature="6:183" ph="..." />
+                <marker date="1552412730343" expanded="true" signature="237:9796" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="392:9794" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="2234:2742" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="2817:3555" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="2957:3059" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="3135:3324" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="3413:3475" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="3597:3741" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="3778:5272" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="4612:4916" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="4708:4902" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="4933:5047" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="5311:5411" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="5465:5978" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="5578:5780" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="5826:5878" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="6021:6610" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="6082:6134" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="6147:6243" ph="/* pick &amp; play a random footstep sound from the array, ... */" />
+                <marker date="1552412730343" expanded="true" signature="6667:7589" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="6747:6799" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="6897:7311" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="7328:7513" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="7638:8905" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="7906:8053" ph="/* On standalone builds, walk/run speed is modified by a key press. ... */" />
+                <marker date="1552412730343" expanded="true" signature="8409:8474" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="8488:8624" ph="/* handle speed change to give an fov kick ... */" />
+                <marker date="1552412730343" expanded="true" signature="8734:8895" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="8941:9031" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="9105:9574" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="9305:9357" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="9408:9460" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="9627:9788" ph="{...}" />
+                <marker date="1552412730343" expanded="true" signature="9682:9765" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Examples/ServiceExamples/Scripts/ExampleTextToSpeech.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+              <folding>
+                <marker date="1554429662480" expanded="true" signature="0:603" ph="/* Copyright 2015 IBM Corp. All Rights Reserved. ... */" />
+                <marker date="1554429662480" expanded="false" signature="640:898" ph="..." />
+                <marker date="1554429662480" expanded="true" signature="948:14328" ph="{...}" />
+                <marker date="1554429662480" expanded="false" signature="955:1329" ph="PLEASE SET THESE VARIABLES IN THE INSPECTOR" />
+                <marker date="1554429662480" expanded="true" signature="2611:2706" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="2747:3421" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="2799:2904" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="3105:3151" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="3457:9721" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="5723:6099" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="5760:5845" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="5882:5968" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="6005:6089" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="6163:6311" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="7229:7611" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="7266:7354" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="7391:7476" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="7513:7601" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="7676:7737" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="9816:9852" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="9895:10339" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="9952:10333" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="10430:10607" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="10695:10870" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="10982:11179" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="11294:11495" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="11614:11889" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="11989:12236" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="12348:12546" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="12646:12853" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="12954:13168" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="13270:13484" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="13588:13808" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="13920:14131" ph="{...}" />
+                <marker date="1554429662480" expanded="true" signature="14222:14326" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/WatsonAssistant.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1545">
+              <caret line="110" column="34" selection-start-line="110" selection-start-column="34" selection-end-line="110" selection-end-column="34" />
+              <folding>
+                <marker date="1551210318570" expanded="false" signature="6:287" ph="..." />
+                <marker date="1551210318570" expanded="true" signature="333:3522" ph="{...}" />
+                <marker date="1551210318570" expanded="true" signature="846:959" ph="{...}" />
+                <marker date="1551210318570" expanded="true" signature="988:1574" ph="{...}" />
+                <marker date="1551210318570" expanded="true" signature="1052:1559" ph="{...}" />
+                <marker date="1551210318570" expanded="true" signature="1309:1445" ph="{...}" />
+                <marker date="1551210318570" expanded="true" signature="1370:1431" ph="{...}" />
+                <marker date="1551210318570" expanded="true" signature="1616:2325" ph="{...}" />
+                <marker date="1551210318570" expanded="true" signature="1667:1764" ph="{...}" />
+                <marker date="1551210318570" expanded="true" signature="1875:1920" ph="{...}" />
+                <marker date="1551210318570" expanded="true" signature="2431:2655" ph="{...}" />
+                <marker date="1551210318570" expanded="true" signature="2765:2860" ph="{...}" />
+                <marker date="1551210318570" expanded="true" signature="2960:3273" ph="{...}" />
+                <marker date="1551210318570" expanded="true" signature="3371:3520" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Run</find>
+      <find>ExampleStreaming</find>
+      <find>_recording</find>
+      <find>OnRecognize</find>
+      <find>Active</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>recording</replace>
+      <replace>WatsonSTT</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Examples/ServiceExamples/Scripts/ExampleConversation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WatsonCommon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Scripts/Debug/DebugReactor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Examples/ServiceExamples/Scripts/ExampleStreaming.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Scripts/Services/Assistant/v2/Models/MessageRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Scripts/Services/Assistant/v2/Models/MessageContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Examples/ServiceExamples/Scripts/ExampleTextToSpeech.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Scripts/Services/Assistant/v1/Models/MessageRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Scripts/Services/SpeechToText/v1/SpeechToText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Examples/ServiceExamples/Scripts/ExampleAssistantV2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WatsonSTT.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Watson_newServices.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Examples/ServiceExamples/Scripts/ExampleSpeechToText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Scripts/Services/Assistant/v2/Models/MessageInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Manager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Scripts/Utilities/Runnable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WatsonAssistant.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Examples/ServiceExamples/Scripts/ExampleAssistantV1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Scripts/Services/Assistant/v2/Assistant.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MessengerBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/WatsonTTS.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../VR AI Avatar copy/Assets/Scripts/WatsonSTT.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/WatsonServicesNew.cs" />
+        <option value="$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Examples/ServiceExamples/Scripts/ExampleAssistantV2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Scripts/Services/Assistant/v2/Assistant.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Watson_newServices.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WatsonAvatar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Examples/ServiceExamples/Scripts/ExampleStreaming.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Message.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WatsonCommon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MessengerBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WatsonTTS.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WatsonAssistant.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WatsonSTT.cs" />
+        <option value="$PROJECT_DIR$/../VR AI Avatar copy/Assets/Scripts/WatsonSTT.cs" />
+        <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Examples/ServiceExamples/Scripts/ExampleTextToSpeech.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="53" />
+    <option name="width" value="1680" />
+    <option name="height" value="982" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="448a9599-132d-40ba-89ed-34a49217926d" name="Default Changelist" comment="" />
+      <created>1550661630934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550661630934</updated>
+      <workItem from="1550661635231" duration="6828000" />
+      <workItem from="1550671278979" duration="17442000" />
+      <workItem from="1551210215692" duration="1400000" />
+      <workItem from="1551743159766" duration="390000" />
+      <workItem from="1551756646361" duration="476000" />
+      <workItem from="1551829713656" duration="403000" />
+      <workItem from="1551932769213" duration="218000" />
+      <workItem from="1551998234470" duration="448000" />
+      <workItem from="1552412580098" duration="758000" />
+      <workItem from="1554429592467" duration="584000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28947000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="981" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26434678" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295838" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Change Signature" order="11" side_tool="true" weight="0.3295838" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/WatsonServicesNew.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Scripts/Utilities/Runnable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="47" column="29" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Examples/ServiceExamples/Scripts/ExampleAssistantV1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="18" selection-start-line="18" selection-end-line="22" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Scripts/Services/Assistant/v1/Models/MessageRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Scripts/Services/Assistant/v2/Assistant.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="185" column="20" selection-start-line="185" selection-start-column="20" selection-end-line="185" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Manager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Scripts/Services/Assistant/v2/Models/MessageRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Scripts/Services/Assistant/v2/Models/MessageContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Examples/ServiceExamples/Scripts/ExampleStreaming.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1204">
+          <caret line="89" column="25" selection-start-line="88" selection-start-column="8" selection-end-line="89" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Examples/ServiceExamples/Scripts/ExampleSpeechToText.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1756" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Scripts/Services/Assistant/v2/Models/MessageInput.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Scripts/Debug/DebugReactor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Examples/ServiceExamples/Scripts/ExampleConversation.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/WatsonCommon.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Examples/ServiceExamples/Scripts/ExampleAssistantV2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Watson_newServices.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Scripts/Services/SpeechToText/v1/SpeechToText.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3505">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/WatsonTTS.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1335">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+          <folding>
+            <marker date="1550707643560" expanded="false" signature="6:223" ph="..." />
+            <marker date="1550707643560" expanded="true" signature="263:2772" ph="{...}" />
+            <marker date="1550707643560" expanded="true" signature="427:550" ph="{...}" />
+            <marker date="1550707643560" expanded="true" signature="608:735" ph="{...}" />
+            <marker date="1550707643560" expanded="true" signature="615:729" ph="/* if (Input.GetKeyDown(KeyCode.A)) ... */" />
+            <marker date="1550707643560" expanded="true" signature="780:1403" ph="{...}" />
+            <marker date="1550707643560" expanded="true" signature="831:936" ph="{...}" />
+            <marker date="1550707643560" expanded="true" signature="1137:1182" ph="{...}" />
+            <marker date="1550707643560" expanded="true" signature="1444:1612" ph="{...}" />
+            <marker date="1550707643560" expanded="true" signature="1710:1750" ph="{...}" />
+            <marker date="1550707643560" expanded="true" signature="1841:1911" ph="{...}" />
+            <marker date="1550707643560" expanded="true" signature="1954:2454" ph="{...}" />
+            <marker date="1550707643560" expanded="true" signature="2011:2448" ph="{...}" />
+            <marker date="1550707643560" expanded="true" signature="2541:2770" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MessengerBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+          <folding>
+            <marker date="1550703624624" expanded="false" signature="6:40" ph="..." />
+            <marker date="1550703624624" expanded="true" signature="103:1021" ph="{...}" />
+            <marker date="1550703624624" expanded="true" signature="527:702" ph="{...}" />
+            <marker date="1550703624624" expanded="true" signature="587:695" ph="{...}" />
+            <marker date="1550703624624" expanded="true" signature="740:868" ph="{...}" />
+            <marker date="1550703624624" expanded="true" signature="801:861" ph="{...}" />
+            <marker date="1550703624624" expanded="true" signature="899:941" ph="{...}" />
+            <marker date="1550703624624" expanded="true" signature="977:1019" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/WatsonSTT.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+          <folding>
+            <marker date="1551998238613" expanded="false" signature="6:273" ph="..." />
+            <marker date="1551998238613" expanded="true" signature="312:7633" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="681:734" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="792:804" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="828:1899" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="890:1893" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="947:1762" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="1814:1883" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="1939:2536" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="1990:2095" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="2160:2205" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="2571:2759" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="2619:2753" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="2793:2981" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="2834:2975" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="3025:5334" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="3230:3304" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="3476:5306" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="3547:3607" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="3624:3683" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="3849:4031" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="4142:4835" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="4852:5295" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="4883:5037" ph="/* calculate the number of samples remaining until we ready for a block of audio, ... */" />
+            <marker date="1551998238613" expanded="true" signature="5439:7049" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="5502:7043" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="5560:7033" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="5628:6083" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="5820:6020" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="6172:6550" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="6263:6532" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="6602:7019" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="6695:7001" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="6799:6979" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="7157:7508" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="7191:7502" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="7280:7492" ph="{...}" />
+            <marker date="1551998238613" expanded="true" signature="7552:7626" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../VR AI Avatar copy/Assets/Scripts/WatsonSTT.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/WatsonAssistant.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1545">
+          <caret line="110" column="34" selection-start-line="110" selection-start-column="34" selection-end-line="110" selection-end-column="34" />
+          <folding>
+            <marker date="1551210318570" expanded="false" signature="6:287" ph="..." />
+            <marker date="1551210318570" expanded="true" signature="333:3522" ph="{...}" />
+            <marker date="1551210318570" expanded="true" signature="846:959" ph="{...}" />
+            <marker date="1551210318570" expanded="true" signature="988:1574" ph="{...}" />
+            <marker date="1551210318570" expanded="true" signature="1052:1559" ph="{...}" />
+            <marker date="1551210318570" expanded="true" signature="1309:1445" ph="{...}" />
+            <marker date="1551210318570" expanded="true" signature="1370:1431" ph="{...}" />
+            <marker date="1551210318570" expanded="true" signature="1616:2325" ph="{...}" />
+            <marker date="1551210318570" expanded="true" signature="1667:1764" ph="{...}" />
+            <marker date="1551210318570" expanded="true" signature="1875:1920" ph="{...}" />
+            <marker date="1551210318570" expanded="true" signature="2431:2655" ph="{...}" />
+            <marker date="1551210318570" expanded="true" signature="2765:2860" ph="{...}" />
+            <marker date="1551210318570" expanded="true" signature="2960:3273" ph="{...}" />
+            <marker date="1551210318570" expanded="true" signature="3371:3520" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4035">
+          <caret line="269" selection-start-line="269" selection-end-line="269" />
+          <folding>
+            <marker date="1552412730343" expanded="true" signature="6:183" ph="..." />
+            <marker date="1552412730343" expanded="true" signature="237:9796" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="392:9794" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="2234:2742" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="2817:3555" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="2957:3059" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="3135:3324" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="3413:3475" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="3597:3741" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="3778:5272" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="4612:4916" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="4708:4902" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="4933:5047" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="5311:5411" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="5465:5978" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="5578:5780" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="5826:5878" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="6021:6610" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="6082:6134" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="6147:6243" ph="/* pick &amp; play a random footstep sound from the array, ... */" />
+            <marker date="1552412730343" expanded="true" signature="6667:7589" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="6747:6799" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="6897:7311" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="7328:7513" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="7638:8905" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="7906:8053" ph="/* On standalone builds, walk/run speed is modified by a key press. ... */" />
+            <marker date="1552412730343" expanded="true" signature="8409:8474" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="8488:8624" ph="/* handle speed change to give an fov kick ... */" />
+            <marker date="1552412730343" expanded="true" signature="8734:8895" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="8941:9031" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="9105:9574" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="9305:9357" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="9408:9460" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="9627:9788" ph="{...}" />
+            <marker date="1552412730343" expanded="true" signature="9682:9765" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Watson/unity-sdk-2.15.0/Examples/ServiceExamples/Scripts/ExampleTextToSpeech.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="40" column="11" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
+          <folding>
+            <marker date="1554429662480" expanded="true" signature="0:603" ph="/* Copyright 2015 IBM Corp. All Rights Reserved. ... */" />
+            <marker date="1554429662480" expanded="false" signature="640:898" ph="..." />
+            <marker date="1554429662480" expanded="true" signature="948:14328" ph="{...}" />
+            <marker date="1554429662480" expanded="false" signature="955:1329" ph="PLEASE SET THESE VARIABLES IN THE INSPECTOR" />
+            <marker date="1554429662480" expanded="true" signature="2611:2706" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="2747:3421" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="2799:2904" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="3105:3151" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="3457:9721" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="5723:6099" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="5760:5845" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="5882:5968" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="6005:6089" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="6163:6311" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="7229:7611" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="7266:7354" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="7391:7476" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="7513:7601" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="7676:7737" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="9816:9852" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="9895:10339" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="9952:10333" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="10430:10607" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="10695:10870" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="10982:11179" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="11294:11495" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="11614:11889" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="11989:12236" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="12348:12546" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="12646:12853" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="12954:13168" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="13270:13484" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="13588:13808" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="13920:14131" ph="{...}" />
+            <marker date="1554429662480" expanded="true" signature="14222:14326" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

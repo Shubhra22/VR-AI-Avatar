@@ -1,0 +1,3 @@
+Available for free on the Asset Store: https://assetstore.unity.com/packages/essentials/post-processing-stack-83912
+
+After installing the package, add the PostProcessingBehaviour script to your camera and assign the FAE profile.
